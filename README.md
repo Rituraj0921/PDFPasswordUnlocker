@@ -25,7 +25,7 @@ Have you ever forgotten the password to a crucial PDF document? Fear not! With t
 **Steps to retrieve PDF Password:**
 
 1. **Install and Import Required Libraries:**
-   - To install the necessary libraries, click on the "RESTART SESSION" button. This action will prompt a restart with the required libraries.
+   - To install the necessary libraries, click on play button and click the "RESTART SESSION" button when RESTART Sesson dialog box pop up. This action will restart colab with the required libraries.
    - ![image](https://github.com/ajuremesh/PDF_Password_Retriever/assets/112324467/4a103c67-dbef-43e5-8650-e952b96b42b6)
 
 
