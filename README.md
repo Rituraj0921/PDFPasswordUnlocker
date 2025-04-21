@@ -19,8 +19,12 @@ Have you ever forgotten the password to a crucial PDF document? Fear not! With t
 - **Open-Source:** Built on the principles of transparency and collaboration, this project is open-source, inviting contributions from the community to further enhance its functionality.
 
 
+<<<<<<< HEAD
 [Open in Google Colab: ![68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://github.com/ajuremesh/PDF_Password_Retriever/assets/112324467/fd128149-48b9-470e-b0af-4c365722ad0f)](https://colab.research.google.com/drive/1xDiUwBbLRiCyChacjexHs0-J3J7wLfEb?usp=sharing)
 
+=======
+Open in Google Colab:
+>>>>>>> parent of 6fa7671 (Update README.md)
 
 **Steps to retrieve PDF Password:**
 
